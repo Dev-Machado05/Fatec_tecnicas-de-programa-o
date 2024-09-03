@@ -1,3 +1,5 @@
+package Colaborador;
+
 public class Colaborador {
     private double provento;
     private String nome;

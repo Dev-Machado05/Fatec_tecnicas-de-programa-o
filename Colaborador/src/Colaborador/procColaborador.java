@@ -1,3 +1,5 @@
+package Colaborador;
+
 public class procColaborador {
     public static void main (String[] args) {
         Colaborador colab = new Colaborador();
